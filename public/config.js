@@ -1,5 +1,5 @@
 window.__RUNTIME_CONFIG__ = {
-  "VITE_ORDERLY_BROKER_ID": "demo",
+  "VITE_ORDERLY_BROKER_ID": "eolas",
   "VITE_ORDERLY_BROKER_NAME": "eolas",
   "VITE_BROKER_EOA_ADDRESS": "0x9ddeb11b1b80efad3abbbad8a3a4c2d94641ac41",
   "VITE_DISABLE_MAINNET": "false",
@@ -27,7 +27,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_TWITTER_URL": "https://x.com/Eolas_AI",
   "VITE_SEO_SITE_NAME": "Eolas DEX",
   "VITE_SEO_SITE_DESCRIPTION": "Eolas perp Dex",
-  "VITE_SEO_SITE_URL": "https://dex.orderly.network/eolas-8036/",
+  "VITE_SEO_SITE_URL": "https://perps.eolas.fun",
   "VITE_SEO_SITE_LANGUAGE": "en",
   "VITE_SEO_SITE_LOCALE": "en_US",
   "VITE_SEO_TWITTER_HANDLE": "@Eolas_Ai",
