@@ -18,7 +18,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_APP_DESCRIPTION": "Eolas perp Dex",
   "VITE_HAS_PRIMARY_LOGO": "true",
   "VITE_HAS_SECONDARY_LOGO": "true",
-  "VITE_ENABLED_MENUS": "Trading,Markets,Portfolio,Leaderboard,Rewards,Swap,Vaults,Points",
+  "VITE_ENABLED_MENUS": "Trading,Markets,Portfolio,Leaderboard,Rewards,Swap,Vaults,Points,Campaigns",
   "VITE_CUSTOM_MENUS": "Buy $Eolas, https://creator.bid/agents/67386d539ae05044ee676a5e",
   "VITE_ENABLE_SERVICE_DISCLAIMER_DIALOG": "false",
   "VITE_ENABLE_CAMPAIGNS": "true",
